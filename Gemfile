@@ -11,7 +11,11 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'bootstrap-sass'
 gem 'devise'
+gem 'cancan'
+gem 'rolify'
 gem 'figaro', '>= 1.0.0.rc1'
+gem 'stripe'
+gem 'stripe_event'
 gem 'high_voltage'
 gem 'pg'
 gem 'simple_form'
